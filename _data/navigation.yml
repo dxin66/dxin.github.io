@@ -16,7 +16,7 @@ main:
   #   url: "/#-educations"
 
   - title: "Reading papers"
-    url: "/#-reading_papers"
+    url: "/reading_papers/"
 
   - title: "Internships"
     url: "/#-internships"
